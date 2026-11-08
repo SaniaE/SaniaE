@@ -11,7 +11,7 @@ This GitHub is where some of those interests take shape: a collection of things 
 
 A work in progress, much like most interesting things.
 
-### My engineering approach
+## My engineering approach
 
 - **300+ experiments later:** Every failure is a data point. An experiment either strengthens an existing hypothesis or opens up an entirely new direction to explore. 
 
@@ -19,7 +19,7 @@ A work in progress, much like most interesting things.
 
 - **Follow the unexpected:** Sometimes the most interesting part of a project is the problem you didn't expect to encounter.
 
-### Beyond the code
+## Beyond the code
 
 - **An occasional artist.** Some days, I barely try and end up loving the drawing. Other days I try a little too hard and somehow manage to ruin it.
 - **An avid reader.** Fantasy, thrillers, and sci-fi are my usual territory. Lately, my reading list has been branching out, with books like Circe and Before the Coffee Gets Cold finding their way in.
@@ -27,7 +27,7 @@ A work in progress, much like most interesting things.
 - **A Duolingo student.** Because consistency beats intensity.
 - **An explorer.** Always up for discovering new cafes, places, and experiences.
 
-### A perspective I hold on to 
+## A perspective I hold on to 
 
 The best ideas rarely arrive fully formed. They're usually hiding somewhere between a failed experiment, an unexpected observation, and a question you almost didn't bother asking.
 
